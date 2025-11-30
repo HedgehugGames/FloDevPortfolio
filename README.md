@@ -27,7 +27,7 @@ As a solo project, I handled everything from coding the logic to modeling the ch
 
 **Link:**  
 - Playable build: [Itch.io](https://hedgehuggames.itch.io/little-moth)  
-- [Images/LittleMoth.gif]
+- ![Little Moth] (Images/LittleMoth.gif)
 
 ---
 
@@ -46,7 +46,7 @@ All programming, using the Synty Pirate asset pack as a Basis.
 - State machine (State Pattern)  
 - Boat sailing 
 
-- [Images/PirateGame.gif]
+- ![PirateGame] (Images/PirateGame.gif)
 
 ---
 
