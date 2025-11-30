@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9e64db0543f4440a04a545ed113a0c, type: 3}
+  m_Name: Exposition
+  m_EditorClassIdentifier: Assembly-CSharp::ChapterSO
+  chapterPrefab: {fileID: 0}
+  voiceLines:
+  - {fileID: 11400000, guid: 7b6b2cbf8b139dc478133de0a449eafc, type: 2}
+  - {fileID: 11400000, guid: 298350ef410f2674aae3bc86b55c6c10, type: 2}
+  chapterTriggered: 1

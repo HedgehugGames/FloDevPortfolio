@@ -67,7 +67,7 @@ In this VR experience, you sit in a taxi with a mysterious driver who tells stra
 - More interactions: roll down windows, draw on fogged windows, control lights, radio music  
 - Refined gameplay loop: scene changes after each chapter; show memories when taxi holds certain objects  
 
-- [Images/GIF placeholder]
+![TaxiDriver](Images/TaxiDriverScreenshot.png)
 
 ---
 

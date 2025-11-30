@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a7443a800c14c34f8d556512cf5458e, type: 3}
+  m_Name: Chap1Line3
+  m_EditorClassIdentifier: Assembly-CSharp::VoiceLinesSO
+  voiceLine: {fileID: 8300000, guid: 9287671dc10a1204a9ea944186eaf914, type: 3}
+  subtitleText: {fileID: 4900000, guid: 6b30ec667f586f2418dfd1718faa4b0d, type: 3}
+  eventType: 2
+  voiceLinesWhileStopped: []
+  recordingResponses:
+    yes: {fileID: 11400000, guid: 1ac3760b0297b2e47b379daa195e492a, type: 2}
+    no: {fileID: 11400000, guid: cb19adf38e600424381d94f0f77754ba, type: 2}
+    noAnswer: {fileID: 11400000, guid: c31ace87f709f1f43b11bfa5192d57a4, type: 2}
+    notRead: {fileID: 11400000, guid: 533400dd873eb974db9d3e451d5acbfc, type: 2}
