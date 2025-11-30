@@ -40,7 +40,7 @@ This game was created as a solo semester project for h-da in the 2nd semester of
 An open-world adventure game where you find booze and treasue and battle enemies.
 
 **My role:**  
-All programming, using the Synty Pirate asset pack as a Basis.
+All programming, using the Synty Pirate asset pack as a basis.
 
 **Highlights:**  
 - Inventory system (pickup and use items)  
