@@ -4,7 +4,7 @@
 
 I am a 22-year-old programming student at the University of Applied Sciences in Darmstadt, in the Animation & Game department, with a keen interest in game development and a passion for tech art. I mainly work in Unity with C#, but I am also familiar with Unreal Engine and C++. Other programming languages I know include Java and Processing.  
 
-Other applications I use: Blender (advanced), Maya (basic), Houdini (intermediate).
+Other applications I use: Blender, Maya, Houdini.
 
 ---
 
@@ -45,8 +45,7 @@ All programming, using the Synty Pirate asset pack as a Basis.
 - Inventory system (pickup and use items)  
 - State machine (State Pattern)  
 - Boat sailing 
-
-![PirateGame](Images/PirateGame.gif)
+![Pirate Game](Images/PirateProject.gif)
 
 ---
 
@@ -86,16 +85,15 @@ In this VR experience, you sit in a taxi with a mysterious driver who tells stra
 - Unity  
 - Unreal Engine  
 - Rider / Visual Studio  
-- Blender (basic) / Maya (basic)  
+- Blender (advanced) / Maya (basic)
+- Houdini (intermediate)
 - Git / GitHub / GitLab / Fork
 
 ---
 
 ## 5. Contact
 
-- Email: [Your email here]  
-- LinkedIn: [Your LinkedIn here]  
-- Downloadable CV: [Link if available]
+- Email: [seschulz03@gmail.com]
 
 ---
 
