@@ -26,7 +26,8 @@ As a solo project, I handled everything from coding the logic to modeling the ch
 - Hand-painted style post-process shader  
 
 **Link:**  
-- Playable build: [Itch.io](https://hedgehuggames.itch.io/little-moth)  
+- Playable build: [Itch.io](https://hedgehuggames.itch.io/little-moth)
+
 ![Little Moth](Images/LittleMoth.gif)
 
 ---
@@ -44,7 +45,8 @@ All programming, using the Synty Pirate asset pack as a Basis.
 **Highlights:**  
 - Inventory system (pickup and use items)  
 - State machine (State Pattern)  
-- Boat sailing 
+- Boat sailing
+
 ![Pirate Game](Images/PirateProject.gif)
 
 ---
